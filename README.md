@@ -35,7 +35,11 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='[https://www.loom.com/share/79aade2cfbdf43c9b72bb70838d539ba?sid=7b108ccd-bc20-498b-8228-7b08464e10a8](https://www.loom.com/share/79aade2cfbdf43c9b72bb70838d539ba?sid=ba0d4ebf-a29c-40c7-804c-ee177aa1f4b8)' title='Video Demo' width='' alt='Video Demo' />
+<a href="https://www.loom.com/share/79aade2cfbdf43c9b72bb70838d539ba" target="_blank">
+  <img src="https://cdn.loom.com/sessions/thumbnails/79aade2cfbdf43c9b72bb70838d539ba-f7612e6c605e8530-full-play.gif" 
+       alt="Video Demo" 
+       style="max-width: 300px;" />
+</a>
 
 GIF created with **Loom**
 
