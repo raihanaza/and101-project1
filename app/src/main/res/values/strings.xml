@@ -11,4 +11,6 @@
     <string name="profile_hobby_first_text">🥇 Nature Walks</string>
     <string name="profile_hobby_second_text">🥈 Trying New Restaurants/Cafes</string>
     <string name="profile_hobby_third_text">🥉 Cooking</string>
+
+    <string name="bunny">Bunny profile image</string>
 </resources>

@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_margin="25dp"
-        android:background="@color/card_foreground"
+        android:background="@color/purple_200"
         app:cardCornerRadius="25dp"
         android:elevation="20dp">
 
@@ -27,7 +27,9 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="60dp"
-                android:src="@drawable/avatar_9"/>
+                android:src="@drawable/bunny"
+                android:contentDescription="@string/bunny"/>
+
 
             <TextView
                 android:id="@+id/profile_name"

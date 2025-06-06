@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun setupProfile() {
-        configureImage()
+//        configureImage()
         configureName()
     }
 
